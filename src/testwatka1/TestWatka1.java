@@ -16,8 +16,10 @@ public class TestWatka1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+       //pare nieistotnych komentarzy
        NewJFrame okno = new NewJFrame();
        okno.setVisible(true);
+       
     }
     
 }
